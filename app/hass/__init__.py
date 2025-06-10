@@ -7,7 +7,8 @@ HASS_ENTITY_TYPES = [
     "climate",
     "light",
     "update",
-    "select"
+    "select",
+    "button"
 ]
 
 def norm(s: str):
